@@ -1,5 +1,8 @@
 _repo: Margaret-Maliphant_63202
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63202-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Carr, Alice Vansittart Strettel
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '49027'
     url: http://www.gutenberg.org/2009/agents/49027
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63202#Margaret-Maliphant
 gutenberg_issued: '2020-09-14'
 gutenberg_type: Text
 identifiers:
